@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	"github.com/ilanak/zap-applicationinsights-writer"
+	"github.com/Ilanak/zap-applicationinsights-writer"
 	"go.uber.org/zap"
 )
 

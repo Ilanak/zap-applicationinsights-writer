@@ -7,7 +7,7 @@
     "DisableAll": true,
     "Linters": {
         "goimports": {
-            "Command": "goimports -l --local github.com/ilanak/zap-applicationinsights-writer"
+            "Command": "goimports -l --local github.com/Ilanak/zap-applicationinsights-writer"
         }
     },
     "Enable": [
