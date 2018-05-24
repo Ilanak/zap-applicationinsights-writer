@@ -1,7 +1,6 @@
 # zap-applicationinsights-writer
 
 Writes log messages from go.uber.org/zap to application insights as traces.</br>
-Sdk for Application Insight in Go taken from [here](https://github.com/Microsoft/ApplicationInsights-Go).
 
 A complete example for setting up zap with application insights integreation:
 
